@@ -5,7 +5,7 @@
 # Robot Romance: One-Line Pickup Lines for AI
 
 My entry for the make.fun bounty `u-markk-st-robot-romance-one-line-pickup-lines-for-ai-c23b8dfa`
-("Robot Romance: One-Line Pickup Lines for AI", $2). A one-line pickup line aimed at a robot or an ai, in one line of 92 characters (limit 200).
+("Robot Romance: One-Line Pickup Lines for AI", $2). A one-line pickup line aimed at a robot or an AI, in one line of 92 characters (limit 200).
 
 ## The line
 

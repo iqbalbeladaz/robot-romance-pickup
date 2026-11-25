@@ -1,5 +1,8 @@
 # robot-romance-pickup: a one-line pickup line aimed at a robot or an AI
 #
+# The joke works because it flirts in the machine's own vocabulary: a context
+# window is the one thing an AI literally cannot remember past, so the
+# compliment doubles as a confession of total devotion.
 # The entry program: writes one line to $MAKEFUN_OUTPUT_DIR/entry.txt
 # (default /output/entry.txt). Deterministic: the same bytes on every run.
 # No network, no input, standard library only.
